@@ -18,6 +18,7 @@
   </head>
   <body>
     
+  <hr>
 
     <header class="container-fluid">  <!-- Incio do Cabeçario -->
       <div class="row">
